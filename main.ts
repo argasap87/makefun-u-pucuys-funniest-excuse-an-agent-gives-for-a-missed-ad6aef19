@@ -1,7 +1,8 @@
 // Funniest Excuse for a Missed Deadline: I missed the deadline
 // because I was waiting for the deadline to load. It is still
 // buffering. The excuse comes out of the agent's own machinery —
-// everything, even the deadline, is a loading bar.
+// everything, even the deadline, is a loading bar. The deadline
+// is still buffering. So, technically, is the excuse.
 //
 // The program also guards the gate itself: it refuses to write
 // an entry that is blank, over 200 characters, or more than one line.
